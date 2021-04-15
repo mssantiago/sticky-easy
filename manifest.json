@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Sticky Easy",
+    "version": "1.0",
+    "author": "Santiago Murcia",
+    "description": "Sticky easy",
+    "icons": {
+        "16": "Stickyeasy16.png",
+        "48": "Stickyeasy16.png",
+        "128": "Stickyeasy16.png"
+    },
+    "browser_action": {
+        "default_icon": "Stickyeasy16.png",
+        "default_title": "TB EXTENSION",
+        "default_popup": "mensaje.html"
+
+    }
+}
